@@ -1,4 +1,4 @@
-### Hey there, I'm Saeed Shamsi.  👋
+### Hey there, I'm Saeed  👋
 ### I'm a Developer
 
 <!-- 
