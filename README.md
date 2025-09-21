@@ -1,16 +1,13 @@
 ### Hey there, I'm Saeed  👋
 ### I'm a Developer
 
-Welcome to my GitHub profile! I'm a software developer with experience in Go, Laravel, PHP, Python, Flask, Flutter and SQL. Here are some of the technologies I work with:
+Welcome to my GitHub profile! I'm a software developer with experience in Go, PHP, Python and SQL. Here are some of the technologies I work with:
 
 #### Skills and Technologies
 
 [![Go](https://img.shields.io/badge/Go-%2302569B.svg?style=flat&logo=Go&logoColor=white)](https://go.dev)
 [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=Laravel&logoColor=white)](https://laravel.com)
 [![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=PHP&logoColor=white)](https://php.net)
-[![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)](http://mysql.com)
-[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/Dart-%2302569B.svg?style=flat&logo=Dart&logoColor=white)](https://dart.dev)
 [![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=Git&logoColor=white)](https://git-scm.com)
 
 
